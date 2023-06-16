@@ -29,5 +29,6 @@ To simulate load on the server, the request script:
 
 ## To Do
 
-* Make containerized branch
-* Improve docs
+- [x ] Make containerized branch
+- [ ] Improve docs
+- [ ] Instrument with Datadog APM
