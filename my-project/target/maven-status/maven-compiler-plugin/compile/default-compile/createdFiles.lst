@@ -1,0 +1,5 @@
+com/example/SimpleWebServer$SimpleMetric.class
+com/example/SimpleWebServer$MetricHandler.class
+com/example/SimpleWebServer$HttpServerInitializer.class
+com/example/SimpleWebServer.class
+com/example/SimpleWebServer$SimpleMetricMBean.class
